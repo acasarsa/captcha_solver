@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'watir'
+gem 'rtesseract'
+gem 'byebug'
+gem 'pry'
